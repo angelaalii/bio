@@ -30,22 +30,23 @@ body {
   }
 
 .biobox {
-    margin-top: 20px;
+    margin-top: 5px;
     margin-left: 20px;
 }
 
 .bio {
     margin-left: 33%;
     margin-right: 5%;
-    padding-top: 75px;
+    padding-top: 65px;
     font-size: 18px;
 }
 .bio .intro {
-    font-size: 28px;
+    font-size: 30px;
     font-weight: 300;
 }
+
 .bio .info {
-    line-height: 0.38;
+  margin: 3px;
 }
 
 .biobox img {
