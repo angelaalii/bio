@@ -30,14 +30,14 @@ body {
   }
 
 .biobox {
-    margin-top: 5px;
-    margin-left: 20px;
+    margin-top: 7%;
+    margin-left: 7%;
 }
 
 .bio {
-    margin-left: 33%;
+    margin-left: 34%;
     margin-right: 5%;
-    padding-top: 65px;
+    padding-top: 40px;
     font-size: 18px;
 }
 .bio .intro {
@@ -109,6 +109,12 @@ body {
   margin-left: 35%;
   margin-right: 3%;
   font-size: 17px;
+}
+
+#indexfooter {
+  position: absolute;
+  bottom: 15px;
+  clear: both;
 }
 
 footer {
