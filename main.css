@@ -111,12 +111,13 @@ body {
   font-size: 17px;
 }
 
-#indexfooter {
-  position: absolute;
-  bottom: 15px;
+footer {
   clear: both;
 }
 
-footer {
+
+#indexfooter {
+  position: absolute;
+  bottom: 15px;
   clear: both;
 }
